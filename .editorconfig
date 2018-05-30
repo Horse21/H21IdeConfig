@@ -131,7 +131,7 @@ csharp_force_attribute_style=separate
 csharp_indent_style=tab
 csharp_indent_size=4
 csharp_tab_width=4
-csharp_continuous_indent_multiplier=2
+csharp_continuous_indent_multiplier=1
 
 # Nested Statements
 csharp_indent_nested_usings_stmt=true
