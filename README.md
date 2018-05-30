@@ -1,0 +1,2 @@
+# H21IdeConfig
+.editorconfig
